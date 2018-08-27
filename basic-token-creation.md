@@ -22,3 +22,4 @@ be in your wallet) control of issuing these tokens.
 ```
 cleos push action eosio.token create '[ "eosio", "1000000000.0000 MYTH"]' \
     -p eosio.token@active
+```
